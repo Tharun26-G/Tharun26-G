@@ -14,7 +14,7 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tharun26-G&show_icons=true&count_private=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Tharun26-G&theme=radical)
+<!-- [GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Tharun26-G&theme=radical) --> !
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tharun26-G&layout=compact&langs_count=8&theme=radical)
 
